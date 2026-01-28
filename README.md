@@ -22,9 +22,16 @@ A digital version of the classic **Battleship** strategy game built as a program
 ##  Project Purpose
 This project was developed to strengthen problem-solving skills and understand how game logic, coordinate systems, and state tracking work in programming.
 
-## 🚀 How to Run
-- Read the pdf file
- 
+##  How to Run
 
-## 👨‍💻 Author
-Huzaifa Jamil Osman
+1. Make sure Java is installed
+2. Download the project files
+3. Open terminal in project folder
+4. Compile:
+   javac Main.java
+5. Run:
+   java Main
+
+
+##  Author
+Huzaifa Jamil Osman, Abrar Rahman and Mobasshir Amin
